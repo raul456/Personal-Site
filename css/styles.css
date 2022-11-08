@@ -1,0 +1,38 @@
+body {
+    background-color:#EAF6F6; 
+    
+}
+
+hr {
+     background-color: white;
+     border-style: none;
+     border-top-style: dotted     ;
+     width: 5%;
+     border-width: 5px;
+     border-color: grey;
+     
+}
+ 
+img {
+    height: 230px;
+    width: 250pxS;
+}
+ 
+h1{
+    color: #66bfbf ;
+    text-decoration-line: underline;
+    text-decoration-color: aquamarine;
+}
+
+h2{
+    COLOR: #0bcecb ;
+    text-decoration-line: underline;
+    text-decoration-color: aquamarine;
+}
+
+ h3{
+    color:#117474 ;
+    text-decoration-line: underline;
+    text-decoration-color: aquamarine;
+ }
+
